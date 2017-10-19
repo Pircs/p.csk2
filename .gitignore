@@ -1,0 +1,17 @@
+﻿#iginore
+.vs
+Library
+ProjectSettings
+Temp
+Publish
+abRes
+Packages
+obj
+Assets/Standard Assets
+*.csproj
+*.sln
+*.meta
+assetsbundle
+obj
+Release
+BuildAssets

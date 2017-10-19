@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Components\NetworkManager.cs">
+    <Files>
+      <File FileName="Assets\Games\brnn\Script\Logic\GameEngine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Games\brnn\Script\Logic\CLabelNum.cs" Line="1" Column="1" />
+      <File FileName="Assets\Games\brnn\Script\Logic\GameLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Games\brnn\Script\UI\UIGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Components\NetworkManager.cs" Line="197" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\cskclient\Assets\Scripts\UI\Surfaces\SurfaceRoom.cs" line="332" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
